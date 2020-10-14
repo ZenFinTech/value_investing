@@ -18,7 +18,7 @@
 K 价值系数，N 用户数量  
 
 ```
-网络外部性效果 Network Externalty
+网络外部性效果 Network Externalty      
 *泛网络化* （互联网，云计算，物联网，AI …… ）
 
 ## Gilder's law
