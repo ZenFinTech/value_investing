@@ -29,7 +29,7 @@ K 价值系数，N 用户数量
 ## Andy and Bill's law
 ```
 Andy gives , Bill takes away    
-硬件提升的性能，很快倍软件消耗  
+硬件提升的性能，很快被软件消耗  
 ```
 电脑，手机等成为消耗性商品
 
