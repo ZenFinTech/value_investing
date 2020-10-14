@@ -3,8 +3,8 @@
 每18个月，微处理器性能double，价格half    
 ```
 半导体电子消费品    
-`泛数字化，一切可以数字化的东西都将被数字化`   
-<font color='red'> dadadadadadadadas</font>
+*一切可以数字化的东西都将被数字化(泛数字化)*   
+
 
 ## anti-Moore's law
 ```
@@ -19,7 +19,7 @@ K 价值系数，N 用户数量
 
 ```
 网络外部性效果 Network Externalty
-
+*泛网络化* （互联网，云计算，物联网，AI …… ）
 
 ## Gilder's law
 ```
