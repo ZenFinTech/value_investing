@@ -3,7 +3,8 @@
 每18个月，微处理器性能double，价格half    
 ```
 半导体电子消费品    
-`泛数字化，一切可以数字化的东西都将被数字化`    
+`泛数字化，一切可以数字化的东西都将被数字化`   
+<font color='red'> dadadadadadadadas</font>
 
 ## anti-Moore's law
 ```
